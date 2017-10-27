@@ -79,12 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Jogja
+                    About
                 </div>
 
                 <div class="links">
-                    <a href="pesan">Pesan</a>
-                    <a href="about">About</a>
+                   
                     
                 </div>
             </div>
